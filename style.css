@@ -588,6 +588,14 @@ transform:scale(1.1);
     color: #fff;
     
 }
+input{
+    width: 18vw;
+    padding: 1vh;
+}
+
+form button{
+    padding: 1vh ;
+}
 .footer-bottom {
     display: flex;
     align-self: center;
