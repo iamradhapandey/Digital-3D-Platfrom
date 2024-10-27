@@ -1,4 +1,5 @@
 
+
 # 🚀 Digital 3D Platform
 
 ## 🌟 Overview
@@ -27,8 +28,9 @@ Here’s a live preview of the **Digital 3D Platform**:
 
 | Homepage | 3D Animation in Action | Interactive Scroll |
 | --- | --- | --- |
-| ![Homepage](https://via.placeholder.com/300x200) | ![3D Animation](https://via.placeholder.com/300x200) | ![Scroll Effect](https://via.placeholder.com/300x200) |
+| ![Homepage Screenshot](your-screenshot-url-here) | ![3D Animation Screenshot](your-screenshot-url-here) | ![Scroll Effect Screenshot](your-screenshot-url-here) |
 
+> _Note: Add the actual screenshot URLs where placeholders are mentioned._
 
 ## 🗂️ Website Structure
 
@@ -98,5 +100,16 @@ Digital-3D-Platform/
    ```
 3. Open `index.html` in your preferred web browser.
 
----
+## 🤝 Contribution
+
+Contributions are welcome! If you'd like to contribute to **Digital 3D Platform**, feel free to:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/YourFeature`).
+3. Make your changes.
+4. Commit your changes (`git commit -m 'Add your feature'`).
+5. Push to the branch (`git push origin feature/YourFeature`).
+6. Open a pull request.
+
+
 
